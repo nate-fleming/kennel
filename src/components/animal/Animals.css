@@ -1,0 +1,16 @@
+.animals {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly
+}
+
+.animal-list {
+    border: 4px solid black;
+    border-radius: 8px;
+    margin: 4% 4%;
+    padding: 4% 2%;
+}
+
+.animalButton {
+    text-align: center
+}

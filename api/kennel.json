@@ -1,0 +1,102 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Jessica Younker"
+    },
+    {
+      "id": 2,
+      "name": "Jordan Nelson"
+    },
+    {
+      "id": 3,
+      "name": "Zoe LeBlanc"
+    },
+    {
+      "id": 4,
+      "name": "Blaise Roberts"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville North",
+      "address": "500 Circle Way"
+    },
+    {
+      "id": 2,
+      "name": "Nashville South",
+      "address": "10101 Binary Court"
+    }
+  ],
+  "animals": [
+    {
+      "id": 1,
+      "name": "Doodles",
+      "employeeId": 1
+    },
+    {
+      "id": 2,
+      "name": "Jack",
+      "employeeId": 2
+    },
+    {
+      "id": 3,
+      "name": "Angus",
+      "employeeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Henley",
+      "employeeId": 4
+    },
+    {
+      "id": 5,
+      "name": "Derkins",
+      "employeeId": 1
+    },
+    {
+      "id": 6,
+      "name": "Checkers",
+      "employeeId": 2
+    },
+    {
+      "id": 7,
+      "name": "cat",
+      "breed": "cat",
+      "employeeId": 1
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Ryan Tanay",
+      "phoneNumber": "555-5555"
+    },
+    {
+      "id": 2,
+      "name": "Emma Beaton",
+      "phoneNumber": "555-4444"
+    },
+    {
+      "id": 3,
+      "name": "Dani Adkins",
+      "phoneNumber": "555-3333"
+    },
+    {
+      "id": 4,
+      "name": "Adam Oswalt",
+      "phoneNumber": "555-2222"
+    },
+    {
+      "id": 5,
+      "name": "Fletcher Bangs",
+      "phoneNumber": "555-1111"
+    },
+    {
+      "id": 6,
+      "name": "Angela Lee",
+      "phoneNumber": "555-0000"
+    }
+  ]
+}

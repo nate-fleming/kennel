@@ -1,0 +1,14 @@
+.animal {
+    border: 4px solid black;
+    border-radius: 8px;
+    margin: 5% 2%;
+    padding: 4% 4%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+
+.animal button {
+    width: 100%;
+    margin: 2% 0
+}
